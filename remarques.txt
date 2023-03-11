@@ -1,0 +1,22 @@
+MODIFICATION A FAIRE SUR LA BASE DE DONNEES
+
+- Renommer les tables 	Recapitulatif ->Eleves_Filiere
+			Infrastructure->Immobilier
+
+-Changer le type de Chef_Distict de int à varchar(100)
+
+-Augmenter la taille du champ Ordre_Formation de 20 à 50
+
+-Changer les valeurs de Ordre_Formation
+			'T'->'Technique'
+			'P'->'Professionnel'
+			'TP'->'Technique et Professionnel'
+
+-Renommer les différentes ETAPES
+
+
+-Changer la valeur par defaut de Etape_Suivi à 0
+
+
+
+
